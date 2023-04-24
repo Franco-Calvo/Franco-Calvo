@@ -1,4 +1,4 @@
-### 👋 ¡Hola! Mi nombre es Franco Calvo y soy Desarrollador Web Full Stack MERN
+### 👋 ¡Hola! Soy Desarrollador Web Full Stack MERN
 
 ### ⚡ Acerca de mi
 
