@@ -1,11 +1,5 @@
 ### 👋 ¡Hola! Soy Desarrollador Web Full Stack MERN
 
-### ⚡ Acerca de mi
-
-🔸Soy una persona con aptitudes comunicativas y de aprendizaje continuo, lo que me permite adaptarme rápidamente a nuevos entornos de trabajo, estoy continuamente investigando y realizando proyectos de prueba para mejorar mis habilidades.
-
-⏳ Cuento con más de 600 horas de experiencia en el desarrollo de aplicaciones Web y Mobile 
-
 ### 🚀Lenguajes y tecnologías que utilizo
  
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
