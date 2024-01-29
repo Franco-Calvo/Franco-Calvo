@@ -27,7 +27,7 @@ Me apasiona abordar proyectos que representen un desafío desde su concepción h
 - 🔭 Actualmente estoy trabajando en [CryptoFast](https://cryptofast.org/)  
   
 
-- 🌱 Me encuentro aprendiendo solidity  
+- 🌱 Me encuentro aprendiendo SQL 
 
 </td></tr></table>  
 
