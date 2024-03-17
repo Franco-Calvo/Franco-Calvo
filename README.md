@@ -22,12 +22,6 @@ Me apasiona abordar proyectos que representen un desafío desde su concepción h
 
 <br/>  
 
-<table><tr><td valign="top" width="50%" border="none">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
